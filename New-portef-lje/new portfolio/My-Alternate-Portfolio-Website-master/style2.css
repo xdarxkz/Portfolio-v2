@@ -1,0 +1,6 @@
+#Minvideo {
+    max-width: 100%; /* Set a pixel value instead if no parent container*/
+    margin: 0 auto; 
+    width: 100%; /* Fill the available width */
+    height: auto; /* Adjust height automatically */
+}
